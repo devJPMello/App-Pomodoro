@@ -6,12 +6,6 @@ Um aplicativo simples de Pomodoro construído com React e TypeScript, focado em 
 
 ---
 
-## 📸 Preview
-
-![Screenshot do App Pomodoro](./public/preview.png)
-
----
-
 ## 🚀 Tecnologias
 
 - [React](https://reactjs.org/)
